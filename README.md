@@ -32,6 +32,4 @@ python ergasia.py
 * Ratings: 33,832,162
 * Users: 330,975
 
-
-
 Marilia
