@@ -1,9 +1,37 @@
-# movie_recommendation_system
-Dataset
+# Movie Recommendation System
 
-The project uses the MovieLens Latest Dataset.
+Movie recommendation system developed using the MovieLens Latest Dataset.
 
-Download:
+## Features
+
+* Content-Based Filtering
+* Personalized Recommendations
+* TF-IDF Vectorization
+* Cosine Similarity
+* Streamlit Web Application
+
+## Dataset
+
+This project uses the MovieLens Latest Dataset:
+
 https://grouplens.org/datasets/movielens/latest/
 
-Extract the folder "ml-latest" inside the project directory before running the code.
+Download the dataset and extract the `ml-latest` folder inside the project directory.
+
+## Run
+
+Command Line Version:
+
+```bash
+python ergasia.py
+```
+
+## Dataset Statistics
+
+* Movies: 86,537
+* Ratings: 33,832,162
+* Users: 330,975
+
+
+
+Marilia
