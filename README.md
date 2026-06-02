@@ -31,5 +31,3 @@ python ergasia.py
 * Movies: 86,537
 * Ratings: 33,832,162
 * Users: 330,975
-
-Marilia
